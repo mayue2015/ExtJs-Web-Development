@@ -1,0 +1,6 @@
+//典型日设置：应用ID
+Ext.app.appID = "15489B09-300C-4802-AD1D-921D994B8691";
+
+//典型日设置：类型ID
+Ext.app.clsID = "97EC2387-4EA7-47FD-81C0-2DCCF14EB142";
+

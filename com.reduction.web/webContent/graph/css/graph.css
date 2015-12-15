@@ -1,0 +1,71 @@
+.zoom_in {
+	background-image: url(../icons/zoom_in.png) !important;
+}
+
+.zoom_out {
+	background-image: url(../icons/zoom_out.png) !important;
+}
+
+.save {
+	background-image: url(../icons/save.gif) !important;
+}
+
+.edit {
+	background-image: url(../icons/checkOut.png) !important;
+}
+
+.delete {
+	background-image: url(../icons/delete.gif) !important;
+}
+
+.hand {
+	background-image: url(../icons/handOn.gif) !important;
+}
+
+.rotate_left {
+	background-image: url(../icons/rotateLeft.png) !important;
+}
+
+.rotate_right {
+	background-image: url(../icons/rotateRight.png) !important;
+}
+
+.select_all {
+	background-image: url(../icons/select_all.png) !important;
+}
+
+.new {
+	background-image: url(../icons/new.PNG) !important;
+}
+
+.open {
+	background-image: url(../icons/open.PNG) !important;
+}
+
+.picture {
+	background-image: url(../icons/picture.PNG) !important;
+}
+
+.revoke {
+	background-image: url(../icons/arrow_rotate_clockwise.png) !important;
+}
+
+.copy {
+	background-image: url(../icons/application_double.png) !important;
+}
+
+.paste_up {
+	background-image: url(../icons/table_relationship.png) !important;
+}
+
+.configure {
+	background-image: url(../icons/llxs/config.png) !important;
+}
+
+.llxsCount {
+	background: transparent url(../icons/key/key.png);
+}
+
+body {
+	font-size: 12px;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dynamic-module>
+	<web>
+		<!-- 指明资源的存放文件夹 -->
+		<bundle-webcontent>/webcontent</bundle-webcontent>
+		<!-- 访问url请求根路径 -->
+		<bundle-context-path>/sysconfig</bundle-context-path>
+		<!-- 静态的访问过滤 -->
+		<resource extension-names="/*.css,/*.html,/*.js,/*.jpg,/*.gif,/*.png,/*.txt,/*.java" />
+		<use-platform-component>false</use-platform-component>
+	</web>
+</dynamic-module>

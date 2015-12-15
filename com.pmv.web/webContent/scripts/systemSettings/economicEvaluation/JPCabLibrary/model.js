@@ -1,0 +1,6 @@
+//JP柜单位造价库：应用ID
+Ext.app.appID = "32920DE6-2D79-4AC4-8BE9-4BAE6FE80582";
+
+//JP柜单位造价库：类型ID
+Ext.app.clsID = "A2F82D03-EE8B-42CB-81D6-6AF628DA425B";
+

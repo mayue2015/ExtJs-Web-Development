@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dynamic-module>
+	<web>
+		<!-- 指明资源的存放文件夹 -->
+		<bundle-webcontent>/webContent</bundle-webcontent>
+		<!-- 访问url请求根路径 -->
+		<bundle-context-path>/pmv</bundle-context-path>
+		<!-- 静态的访问过滤 -->
+		<resource extension-names="/*.css,/*.html,/*.js,/*.jpg,/*.gif,/*.png,/*.PNG" />
+		<use-platform-component>false</use-platform-component>
+		<use-jsp>true</use-jsp>
+	</web>
+</dynamic-module>
